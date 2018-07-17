@@ -1,3 +1,5 @@
+This full README file was written by [Guilherme Cardoso](https://github.com/luminoso).
+
 #  Impact of transmission errors in network performance
 
 This is the first simulator developed at the course [47064 - Network Performance and Dimension](https://www.ua.pt/uc/2306), at University of Aveiro.
